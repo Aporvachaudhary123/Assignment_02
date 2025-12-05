@@ -42,13 +42,3 @@ Keyboard input
 Game logic
 
 Collision detection
-
-Example Output
-Score: 5
--------------
-|    X    |
-|         |
-|         |
-|         |
-|         |
-|    A    |
